@@ -11,7 +11,7 @@ At the top, we have our ```Header Bar``` which will list the version of AAVJ we 
 
 Beneath the toolbar on the left side are the master controls for your composition. 
 
-![[CompositionControls.png]]
+![CompositionControls.png](https://github.com/anti-alias-arts/AAVJ-Docs/blob/main/Images/CompositionControls.png)
 
 * The ‘X’ button located to the left of the ```Composition Fader``` will trigger all layer ```clear``` buttons, effectively clearing all layers.
 
@@ -25,7 +25,7 @@ On the left side of the ```toolbar```, there are numbered buttons that will inst
 
 On the left, you will see our layer controls. 
 
-![[LayerControl.png]]
+![LayerControl.png](https://github.com/anti-alias-arts/AAVJ-Docs/blob/main/Images/LayerControl.png)
 
 * The X button, or 'clear' button, will transition the scene on that layer to a blank output Pressing this ‘X’ button twice in a row will leverage the ```VRAM Cleanup Script``` and **unload** the last played scene on that layer.
 
@@ -35,7 +35,7 @@ On the left, you will see our layer controls.
 
 #### Fader Filtering
 
-* Under that is the fader filtering for the level fader to ease your mixing. Press the ![[FaderFilteringButton.png]]  button to enable fader filtering, and adjust the value to increase or decrease filtering on that layer.
+* Under that is the fader filtering for the level fader to ease your mixing. Press the ![FaderFilteringButton.png](https://github.com/anti-alias-arts/AAVJ-Docs/blob/main/Images/FaderFilteringButton.png)  button to enable fader filtering, and adjust the value to increase or decrease filtering on that layer.
 
 #### Name
 
